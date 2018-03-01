@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+
+    <label lang="de">Codiad Backend IDE</label>
+
+    <version>1.0</version>
+    <copyright>Copyright 2017, Tigran Baymambetov</copyright>
+    <author>Tigran Baymambetov</author>
+    <compatibility minVersion="5.2.0" />
+    <description>
+        Codiad Backend IDE
+    </description>
+
+</plugin>
